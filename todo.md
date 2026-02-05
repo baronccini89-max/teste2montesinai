@@ -60,6 +60,6 @@
 - [ ] Criar checkpoint final
 
 ## Publicação no GitHub
-- [ ] Criar script de seed com usuário admin padrão
-- [ ] Publicar repositório no GitHub (teste.montesinai)
-- [ ] Atualizar README com instruções de setup inicial
+- [x] Criar script de seed com usuário admin padrão
+- [x] Publicar repositório no GitHub (teste.montesinai)
+- [x] Atualizar README com instruções de setup inicial
