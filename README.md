@@ -112,7 +112,19 @@ As seguintes variáveis são injetadas automaticamente pela plataforma Manus:
 pnpm db:push
 ```
 
-**5. Inicie o servidor de desenvolvimento**
+**5. Crie o usuário administrador padrão**
+
+```bash
+pnpm seed:admin
+```
+
+Este comando criará um usuário administrador com as seguintes credenciais:
+- **E-mail:** admin@montesinai.com
+- **Senha:** admin
+
+⚠️ **IMPORTANTE:** Altere a senha imediatamente após o primeiro login por uma senha forte e segura.
+
+**6. Inicie o servidor de desenvolvimento**
 
 ```bash
 pnpm dev

@@ -58,3 +58,8 @@
 - [x] Criar guia de publicação no GitHub
 - [ ] Preparar instruções para publicação no GitHub
 - [ ] Criar checkpoint final
+
+## Publicação no GitHub
+- [ ] Criar script de seed com usuário admin padrão
+- [ ] Publicar repositório no GitHub (teste.montesinai)
+- [ ] Atualizar README com instruções de setup inicial
