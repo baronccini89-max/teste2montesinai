@@ -9,7 +9,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/teste.montesinai/',
+  base: '/teste2montesinai/',
   build: {
     outDir: 'dist',
     sourcemap: false,
